@@ -3,8 +3,6 @@
 # I'm Stan!
 
 <h2>👨‍💻 A Few Quick Facts About Me:</h2>
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
-<ul>
 <li> <img src="https://cdn.brandfetch.io/id-0HYn-9P/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="15" ></h2> I’m currently working as an Intern QA Engineer at <a href="https://www.capital.com/">capital.com</a>. And I'm testing <a href="https://play.google.com/store/apps/details?id=com.currency.exchange.widgetscrypto&hl=en_US">Bitcoin & Crypto Price widget</a> mobile app every day.</li>
 <li> 😌 I finished 3-months functional software testing course from Artsiom Rusau. <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">Certificate</a> </li>
 <li> ☕ Right now I am learning how to automate tests with JavaScript.</li>
