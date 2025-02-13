@@ -54,6 +54,7 @@
 ---
 
 ### 📁 Test Artifacts (Rus):
+●	<a href=https://github.com/StanTokarev/TestingTheory>Теория тестирования</a>
 
 <!-- ### 💻 Пройденные курсы:
 
