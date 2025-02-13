@@ -54,14 +54,14 @@
 ---
 
 ### 📁 Test Artifacts (Rus):
-●	<p><a href=https://github.com/StanTokarev/TestingTheory>Теория тестирования</a></p>
-●	<p><a href=https://github.com/StanTokarev/TestDocumentation>Тестовая документация</a></p>
-●	<p><a href=https://github.com/StanTokarev/TestDesign>Техники тест-дизайна</a></p>
-●	<p><a href=https://github.com/StanTokarev/WebAppTesting>Тестирование веб-приложений</a></p>
-● <p><a href=https://github.com/StanTokarev/APITesting>Тестирование API</a></p>
-●	<p><a href=https://github.com/StanTokarev/DataBaseTesting>Работа с базами данных</a></p>
-●	<a href=https://github.com/StanTokarev/MobileAppTesting>Тестирование мобильных приложений</a></p>
-●	<a href=https://github.com/StanTokarev/Git-Bash>Работа с git и bash</a></p>
+<p>●	<a href=https://github.com/StanTokarev/TestingTheory>Теория тестирования</a></p>
+<p>●	<a href=https://github.com/StanTokarev/TestDocumentation>Тестовая документация</a></p>
+<p>●	<a href=https://github.com/StanTokarev/TestDesign>Техники тест-дизайна</a></p>
+<p>●	<a href=https://github.com/StanTokarev/WebAppTesting>Тестирование веб-приложений</a></p>
+<p>● <a href=https://github.com/StanTokarev/APITesting>Тестирование API</a></p>
+<p>●	<a href=https://github.com/StanTokarev/DataBaseTesting>Работа с базами данных</a></p>
+<p>●	<a href=https://github.com/StanTokarev/MobileAppTesting>Тестирование мобильных приложений</a></p>
+<p>●	<a href=https://github.com/StanTokarev/Git-Bash>Работа с git и bash</p>
 
 <!-- ### 💻 Пройденные курсы:
 
