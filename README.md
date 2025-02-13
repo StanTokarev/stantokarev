@@ -55,6 +55,13 @@
 
 ### 📁 Test Artifacts (Rus):
 ●	<a href=https://github.com/StanTokarev/TestingTheory>Теория тестирования</a>
+●	<a href=https://github.com/StanTokarev/TestDocumentation>Тестовая документация</a>
+●	<a href=https://github.com/StanTokarev/TestDesign>Техники тест-дизайна</a>
+●	<a href=https://github.com/StanTokarev/WebAppTesting>Тестирование веб-приложений</a>
+●	<a href=https://github.com/StanTokarev/APITesting>Тестирование API</a>
+●	<a href=https://github.com/StanTokarev/DataBaseTesting>Работа с базами данных</a>
+●	<a href=https://github.com/StanTokarev/MobileAppTesting>Тестирование мобильных приложений</a>
+●	<a href=https://github.com/StanTokarev/Git-Bash>Работа с git и bash</a>
 
 <!-- ### 💻 Пройденные курсы:
 
