@@ -69,7 +69,10 @@
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| <a href="https://www.rusau.net/qa-from-scratch">Software Functional Testing Course</a>, Artsiom Rusau                          | 12/2024 - 03/2025 |
+| <a href="https://www.rusau.net/qa-from-scratch">Software Functional Testing Course</a>, author&nbsp;<a href="https://www.linkedin.com/in/artsiomrusau/">Artsiom Rusau</a>                          | 12/2024 - 03/2025 |
+| <a href="https://www.rusau.net/qa-from-scratch">QA Toolbox</a>, author&nbsp;<a href="https://www.linkedin.com/in/adelinakovi/">Adelina Kovina</a>                          | 05/2024 - 06/2024 |
+| <a href="https://www.rusau.net/qa-from-scratch">QA Manual Practice</a>, author&nbsp;<a href="https://www.linkedin.com/in/maryna-mikhailouskaya-qa/">Maryna Mikhailouskaya</a>                          | 05/2024 - 06/2024 |
+
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=stantokarev.visitor-badge&left_color=red&right_color=green)
