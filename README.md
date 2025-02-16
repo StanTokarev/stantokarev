@@ -20,7 +20,10 @@
 </ul>
 
 ---
+### 📙 Check out my <a href="https://drive.google.com/file/d/1rPoPWCSrFIZ2ynKDKF3D8xWClASIC49Q/view?usp=sharing">Resume</a>:
+<li>Check it out, and if you like what you see, let's talk before my coffee runs out! ☕</li> 
 
+---
 ### 🛠 Some Tools I Use:
 
 <div>
