@@ -9,7 +9,7 @@
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/StanTokarev/">Github</a>.</li> </li>
 <li> 📖 Learning JavaScript in my free time.</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1TzRe2BfGmU93EwmSgRPOIDeUI5Luv6nS/edit?usp=sharing&ouid=102925613912026584866&rtpof=true&sd=true">Resume</a>.</li> 
-<li>🧣 Random fact about me: I’ve got a big, awesome family with three smart kids, and I’m all about tennis. Life’s a mix of family chaos and hitting the court, and I wouldn’t have it any other way! </li>
+<li>🧣 Random fact about me: I’ve got a big, awesome family with smart kids, and I’m all about tennis. Life’s a mix of family chaos and hitting the court, and I wouldn’t have it any other way! </li>
 <a href= "https://www.linkedin.com/in/stan-tokarev/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://github.com/StanTokarev"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-icon.png" width="40" height="40" alt="github"/></a>
 <a href= "https://t.me/stantokarev"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
