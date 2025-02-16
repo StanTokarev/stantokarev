@@ -15,7 +15,6 @@
 <a href= "https://t.me/stantokarev"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:nosovertka@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 <a href= "mailto:stan.tokarev@yahoo.com"><img src="https://img.icons8.com/?size=100&id=9N3LO52MKuiT&format=png&color=000000" width="40" height="40" alt="yahoo mail"/></a>
-<a href= "https://www.facebook.com/stantokarev/"><img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" width="40" height="40" alt="facebook"/></a>
 </p>
 </ul>
 
