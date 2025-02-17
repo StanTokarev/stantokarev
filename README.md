@@ -72,8 +72,8 @@
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | <a href="https://www.rusau.net/qa-from-scratch">Artsiom Rusau QA Life</a>, Software Functional Testing Course, <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">certificate</a>                          | 12/2024 - 03/2025 |
-| TheFocus.Tech, QA Toolbox, author&nbsp;<a href="https://www.linkedin.com/in/adelinakovi/">Adelina Kovina</a>                          | 05/2024 - 06/2024 |
-| TheFocus.Tech, QA Manual Practice, author&nbsp;<a href="https://www.linkedin.com/in/maryna-mikhailouskaya-qa/">Maryna Mikhailouskaya</a>                          | 05/2024 - 06/2024 |
+| TheFocus.Tech, QA Toolbox Course, author&nbsp;<a href="https://www.linkedin.com/in/adelinakovi/">Adelina Kovina</a>                          | 05/2024 - 06/2024 |
+| TheFocus.Tech, QA Manual Practice Course, author&nbsp;<a href="https://www.linkedin.com/in/maryna-mikhailouskaya-qa/">Maryna Mikhailouskaya</a>                          | 05/2024 - 06/2024 |
 
 
 
