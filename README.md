@@ -71,10 +71,10 @@
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
+| Test Design Techniques, author&nbsp;<a href="https://www.linkedin.com/in/alexandra-eryomina-eremina-86535062/">Alexandra Eremina</a>                          | 02/2025 - 03/2025 |
 | <a href="https://www.rusau.net/qa-from-scratch">Artsiom Rusau QA Life</a>, Software Functional Testing Course, <a href="https://drive.google.com/file/d/1KESVcf-Yv73If1EmwQ_VvVSHf-rQ-UOi/view?usp=sharing">certificate</a>                          | 12/2024 - 03/2025 |
 | TheFocus.Tech, QA Toolbox Course, author&nbsp;<a href="https://www.linkedin.com/in/adelinakovi/">Adelina Kovina</a>                          | 05/2024 - 06/2024 |
 | TheFocus.Tech, QA Manual Practice Course, author&nbsp;<a href="https://www.linkedin.com/in/maryna-mikhailouskaya-qa/">Maryna Mikhailouskaya</a>                          | 05/2024 - 06/2024 |
-| Test Design Techniques, author&nbsp;<a href="https://www.linkedin.com/in/alexandra-eryomina-eremina-86535062/">Alexandra Eremina</a>                          | 02/2025 - 03/2025 |
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=stantokarev.visitor-badge&left_color=red&right_color=green)
